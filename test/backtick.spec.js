@@ -1,4 +1,4 @@
-var Backtick = require('../lib/backtick')
+var Backtick = require('../index')
     , expect = require('chai').expect
     , _      = require('lodash');
 
