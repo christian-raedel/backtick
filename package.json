@@ -24,7 +24,8 @@
   "homepage": "https://github.com/christian-raedel/backtick",
   "devDependencies": {
     "chai": "^1.9.2",
-    "mocha": "^2.0.1"
+    "mocha": "^2.0.1",
+    "q": "^1.1.1"
   },
   "dependencies": {
     "lodash": "^2.4.1"
